@@ -1,0 +1,10 @@
+.header{
+	background: #d8d8d8;
+	height: 150px;
+}
+.box{
+	border: 50px solid #232af0;
+	background: #232af0;
+	width: 30px;
+	margin: 0 0 25px 25px;
+}
