@@ -1,0 +1,28 @@
+.left{
+	background: #43a8e1;
+	height: 100%;
+	width: 33%;
+	float: left;
+}
+.middle{
+	background: #43e18d;
+	height: 100%;
+	width: 33%;
+	float: left;
+}
+.right{
+	background: #d2f8ae;
+	height: 75%;
+	width: 33%;
+	float: left;
+}
+.image{
+	background: #f00808;
+	height: 25%;
+}
+.message {
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	padding: 50px;
+}
